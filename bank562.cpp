@@ -6,8 +6,7 @@ using namespace std;
 
 class bank
 {	
-//	char name[100],add[100],y;
-	string name,addres,y;
+ 
 	int balance;
 	public :
 		void open_account();
